@@ -1,0 +1,100 @@
+.btn{
+    background-color: #21B573;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#pic{
+    width: 100%;
+}
+
+.bg{
+    background-color:#F0FFF0 ;
+    width: 1440px;
+    height: 576px;
+}
+.navbar-brand img{
+    height: 70.98px;
+    width: 125.55704689025879px;
+    left: 25.873443603515625px;
+    top: 43.7037353515625px;
+    border-radius: 0px;
+
+}
+.h{
+    position: relative;
+    color: #FD511A;
+    top: 70px;
+}
+.head{
+    position: relative;
+    top: 90px;
+}
+.h-c{
+    color:#21B573;
+}
+.h-p{
+    position: relative;
+    top: 140px;
+}
+.h-b{
+    position: relative;
+    top: 150px;
+}
+.ca{
+    display: flex;
+}
+.ca img{
+    width: 66px;
+    height: 88px;
+    position: relative;
+    top: 30px;
+}
+.c-d{
+    width: 270px;
+    height: 270px;
+    text-align: center;
+}
+.ca h6{
+    position: relative;
+    top: 40px;
+}
+.ca p{
+    position: relative;
+    top: 30px;
+}
+.c1{
+    background-color: #F0FFF0
+}
+.c2{
+    box-shadow: 5px 5px 100px 5px lightgray;
+}
+#online{
+    text-align: center;
+}
+.card{
+    border-radius: 10px;
+}
+.card h5{
+    color: #413960;
+}
+.test img{
+    position: relative;
+    width: 120px;
+    height: 120px;
+    left: 300px;
+    top: -20px;
+}
+.fo{
+    width: 1440px;
+    height: 369px;
+    color: white;
+}
+#copy{
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
